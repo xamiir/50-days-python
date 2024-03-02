@@ -36,7 +36,7 @@ To contribute, follow these steps:
 
 1. Fork the repository on GitHub.
 
-2. Create a new branch from the `main` branch for your changes.
+2. Create a new branch from the `master` branch for your changes.
 
 3. Make your desired changes and additions.
 
