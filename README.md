@@ -48,10 +48,3 @@ To contribute, follow these steps:
 
 7. Submit a pull request to the main repository, detailing the changes you've made and why they should be incorporated.
 
-## Support and Feedback
-
-If you encounter any issues with the 50 Days of Python Code challenge, have suggestions for improvement, or would like to provide feedback, please don't hesitate to [open an issue](https://github.com/xamiir/50-days-python-code/issues) on GitHub. Your input is valuable and will help make this project better for everyone.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
